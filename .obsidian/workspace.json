@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
+                "file": "Матанализ/Коллоквиум/Билет 13. Длина гладкой кривой.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости."
+              "title": "Билет 13. Длина гладкой кривой"
             }
           }
         ],
@@ -201,13 +201,16 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "fe6f008f9588db38",
   "lastOpenFiles": [
-    "Матанализ/Коллоквиум/Билет 13. Длина гладкой кривой.md",
     "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
+    "Матанализ/Коллоквиум/Билет 13. Длина гладкой кривой.md",
     "Test.md",
     "Туц.md",
     "Матанализ/Коллоквиум",

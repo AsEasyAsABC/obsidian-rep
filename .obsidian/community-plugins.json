@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "pdf-plus",
+  "better-export-pdf"
 ]
