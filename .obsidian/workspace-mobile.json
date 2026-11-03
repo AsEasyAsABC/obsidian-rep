@@ -11,11 +11,11 @@
             "id": "5428ab72a7ed6407",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/дз4.md"
+                "file": "Excalidraw/дз4.png"
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-image",
               "title": "дз4"
             }
           }
@@ -185,10 +185,11 @@
   },
   "active": "5428ab72a7ed6407",
   "lastOpenFiles": [
+    "Excalidraw/дз4.md",
+    "Excalidraw/дз4.png",
     "1000122178.png",
     "1000122176.png",
     "Excalidraw/Drawing 2026-11-02 16.38.01.excalidraw.md",
-    "Excalidraw/дз4.md",
     "Excalidraw/Drawing 2026-11-02 16.38.34.excalidraw.md",
     "Test.md",
     "1000122174 1.png",
