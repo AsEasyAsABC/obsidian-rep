@@ -11,15 +11,30 @@
             "id": "5428ab72a7ed6407",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/дз4.png"
+                "file": "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "дз4"
+              "icon": "lucide-file",
+              "title": "Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости."
+            }
+          },
+          {
+            "id": "83536ba96c401030",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing билет 1..md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing билет 1."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5428ab72a7ed6407",
+  "active": "83536ba96c401030",
   "lastOpenFiles": [
+    "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
+    "Excalidraw/Drawing билет 1..md",
     "Excalidraw/дз4.md",
     "Excalidraw/дз4.png",
+    "Pasted image 20261103222935.png",
+    "Pasted image 20261103221855.png",
     "1000122178.png",
     "1000122176.png",
     "Excalidraw/Drawing 2026-11-02 16.38.01.excalidraw.md",
@@ -196,7 +215,6 @@
     "1000122174.png",
     "Excalidraw",
     "Матанализ/Коллоквиум/Билет 13. Длина гладкой кривой.md",
-    "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
     "Доклад/План доклада 09.11.26.md",
     "Туц.md",
     "Применения лазерно-плазменных источников рентгеновского излучения.md",
