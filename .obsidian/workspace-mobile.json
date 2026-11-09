@@ -25,12 +25,14 @@
             "id": "83536ba96c401030",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing билет 1..md"
+                "file": "Доклад/План доклада 09.11.26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing билет 1."
+              "icon": "lucide-file",
+              "title": "План доклада 09.11.26"
             }
           }
         ],
@@ -200,19 +202,23 @@
   },
   "active": "83536ba96c401030",
   "lastOpenFiles": [
-    "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
+    "Доклад/План 2.md",
+    "Pasted image 20261107150709.png",
+    "Pasted image 20261107145837.png",
+    "Pasted image 20261107083955.png",
+    "Pasted image 20261104154310.png",
+    "Pasted image 20261104154148.png",
+    "Pasted image 20261104152932.png",
     "Excalidraw/Drawing билет 1..md",
+    "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
     "Excalidraw/дз4.md",
     "Excalidraw/дз4.png",
     "Pasted image 20261103222935.png",
     "Pasted image 20261103221855.png",
     "1000122178.png",
-    "1000122176.png",
     "Excalidraw/Drawing 2026-11-02 16.38.01.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 16.38.34.excalidraw.md",
     "Test.md",
-    "1000122174 1.png",
-    "1000122174.png",
     "Excalidraw",
     "Матанализ/Коллоквиум/Билет 13. Длина гладкой кривой.md",
     "Доклад/План доклада 09.11.26.md",
