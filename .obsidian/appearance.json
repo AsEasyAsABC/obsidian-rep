@@ -1,3 +1,4 @@
 {
-  "cssTheme": "LaTeX"
+  "cssTheme": "LaTeX",
+  "showRibbon": true
 }
