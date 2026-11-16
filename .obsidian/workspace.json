@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -250,8 +250,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "db000f05d0d27b99",
+  "active": "e6bef4b90665be5b",
   "lastOpenFiles": [
+    "file:C:/Users/Administrator/Documents/reviewer_rules.md",
     "Научка/Дифракция рентгеновских лучей на кристаллах.md",
     "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/DEEPSEEK_REVIEW_NOTES.md",
     "Научка/Отчет.md",
