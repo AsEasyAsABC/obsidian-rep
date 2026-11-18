@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/INSTRUCTIONS.md",
+                "file": "_chat/last.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INSTRUCTIONS"
+              "title": "last"
             }
           }
         ],
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e561bcd61714177",
@@ -252,16 +253,18 @@
   },
   "active": "d70762765ba5a257",
   "lastOpenFiles": [
+    "Доклад/План 2.md",
+    "_chat/last.md",
+    "_chat",
+    "Доклад/План доклада 09.11.26.md",
+    "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/INSTRUCTIONS.md",
     "profile.md",
     "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/README.md",
-    "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/INSTRUCTIONS.md",
     "file:C:/Users/Administrator/Documents/reviewer_rules.md",
     "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/planner_rules.md",
     "Научка/Дифракция рентгеновских лучей на кристаллах.md",
     "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/DEEPSEEK_REVIEW_NOTES.md",
     "Научка/Отчет.md",
-    "Доклад/План 2.md",
-    "Доклад/План доклада 09.11.26.md",
     "Pasted image 20261107150709.png",
     "Pasted image 20261107145837.png",
     "Pasted image 20261107083955.png",
