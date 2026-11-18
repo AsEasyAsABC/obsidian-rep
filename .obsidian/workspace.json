@@ -140,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4e561bcd61714177",
@@ -253,13 +252,15 @@
   },
   "active": "d70762765ba5a257",
   "lastOpenFiles": [
-    "Доклад/План 2.md",
+    "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
     "_chat/last.md",
+    "ans",
+    "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/README.md",
+    "Доклад/План 2.md",
     "_chat",
     "Доклад/План доклада 09.11.26.md",
     "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/INSTRUCTIONS.md",
     "profile.md",
-    "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/README.md",
     "file:C:/Users/Administrator/Documents/reviewer_rules.md",
     "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/planner_rules.md",
     "Научка/Дифракция рентгеновских лучей на кристаллах.md",
@@ -275,7 +276,6 @@
     "Test.md",
     "Pasted image 20261104154310.png",
     "Матанализ/Коллоквиум/Билет 13. Длина гладкой кривой.md",
-    "Матанализ/Коллоквиум/Билет 1. Определение кратного интеграла Римана. Необходимое условие интегрируемости..md",
     "1000122178.png",
     "1000122174.png",
     "1000122176.png",
