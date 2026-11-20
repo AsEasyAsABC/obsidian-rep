@@ -49,8 +49,7 @@
               "title": "Применения лазерно-плазменных источников рентгеновского излучения"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +222,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "db895e2c90e6b52a",
+  "active": "bf98b17a750206d9",
   "lastOpenFiles": [
     "Применения лазерно-плазменных источников рентгеновского излучения.md",
     "AIDER GUIDE.md",
