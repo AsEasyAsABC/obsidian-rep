@@ -77,8 +77,7 @@
               "title": "Применения лазерно-плазменных источников рентгеновского излучения"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,8 +250,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a35e644bd0068431",
+  "active": "bf98b17a750206d9",
   "lastOpenFiles": [
+    "file:C:/Users/Administrator/Downloads/Локальная_LLM_в_Docker_установка,_настройка,_дообучение.md",
     "file:C:/Users/Administrator/Documents/проекты/duet2-alignment/README.md",
     "Научка/Отчет.md",
     "AIDER GUIDE.md",
